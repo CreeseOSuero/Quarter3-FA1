@@ -1,2 +1,3 @@
-# Quarter3-FA1
-This is Quarter 3 FA1
+- This is a Laboratory Activity on Modules 8.1 to 8.4
+- The topics covered in this activity are the basics of javascript (like creating js files, console.log, etc.) 
+- https://github.com/CreeseOSuero/Quarter3-FA1
